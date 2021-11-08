@@ -2,11 +2,9 @@
 
 ### Contate-me 
 
-### 📬 Contact me
-
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/larissa-lidizia/)](https://www.linkedin.com/in/larissa-lidizia/)[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:larilidizia@gmail.com)](mailto:cardozo.marina.p@gmail.com)
 
-### 🖥 Languages, Technologies and Tools
+### Linguagens, tecnologias e ferramentas
 
 ![](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-blue)
 ![](https://img.shields.io/badge/-SPRING%20TOOL-brightgreen)
